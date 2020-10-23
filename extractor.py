@@ -1,6 +1,5 @@
 import os
 from PIL import Image
-import time
 
 # poor code to extract gif to png by alexdieu
 
